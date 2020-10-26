@@ -1,0 +1,13 @@
+.header {
+  background: #333;
+  color: #fff;
+  height: 40px;
+  line-height: 40px;
+
+  display: flex;
+}
+.header a{
+    text-decoration: none;
+    margin:0 30px;
+    color:inherit;
+}
